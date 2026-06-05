@@ -37,7 +37,7 @@
                                       Opacity="0"
                                       Spacing="0">
 
-                    <!-- ── HERO ── -->
+                    
                     <Label Text="📍 My Location"
                            TextColor="#D0FFFFFF"
                            FontSize="13"
